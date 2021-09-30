@@ -3,7 +3,7 @@
 * Backend Dev (Java, .NET, Python)
 * C/CPP
 * Competitive Programming
-  -[Guided paths by Coding Ninjas (FREE)](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming)
+   - [Guided paths by Coding Ninjas (FREE)](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming)
 * Cyber Security
 * DSA
 * Database
