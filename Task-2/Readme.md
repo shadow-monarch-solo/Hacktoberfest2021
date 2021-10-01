@@ -22,6 +22,7 @@
 
 * Open Source
 * Python
+  * [Codebasics YT Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
 * Rust
 * Statistics
 * UI/UX
