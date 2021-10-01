@@ -18,7 +18,7 @@
 * JavaScript
 * MERN
 * Machine Learning
- * [Stanford's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
+  * [Stanford's Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
 
 * Open Source
 * Python
