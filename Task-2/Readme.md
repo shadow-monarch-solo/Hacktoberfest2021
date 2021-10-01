@@ -4,7 +4,9 @@
 * C/CPP
 * Competitive Programming
 * Cyber Security
-* DSA
+* DSA 
+  * [Abdul Bari's Course on Udemy](https://www.udemy.com/course/datastructurescncpp/)
+
 * Database
 * Datascience with Python
 * Datascience with R
